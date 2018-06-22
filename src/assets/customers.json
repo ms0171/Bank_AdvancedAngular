@@ -1,0 +1,51 @@
+{
+  "customers": [
+    {
+      "accountNumber": 1,
+      "name": "Maulin Sheth",
+      "password": "maulin123",
+      "age": 20,
+      "amount": "2000",
+      "bankName": "SBI"
+    },
+    {
+      "accountNumber": 2,
+      "name": "Hipal Sakhreliya",
+      "password": "hipal123",
+      "age": 20,
+      "amount": "2500",
+      "bankName": "BOI"
+    },
+    {
+      "accountNumber": 3,
+      "name": "Harsh Vora",
+      "password": "harsh123",
+      "age": 20,
+      "amount": "3500",
+      "bankName": "SBI"
+    },
+    {
+      "accountNumber": 4,
+      "name": "Nishant Rupareliya",
+      "password": "nishant123",
+      "age": 20,
+      "amount": "2900",
+      "bankName": "Canara"
+    },
+    {
+      "accountNumber": 5,
+      "name": "Valay Shah",
+      "password": "valay123",
+      "age": 20,
+      "amount": "4000",
+      "bankName": "ICICI"
+    },
+    {
+      "accountNumber": 6,
+      "name": "DS",
+      "age": 21,
+      "amount": "2500",
+      "bankName": "BOB"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "managers":
+    [
+	 {
+		"managerId" :1,
+		"name" : "Himesh Suri",
+		"age" : 42,
+		"password" : "manager123"
+	 }
+    ]
+}
